@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 sudo mv betty /tmp/my_first_directory
+=======
+sudo mv /tmp/betty /tmp/my_first_directory
+>>>>>>> ba9e75ab5dd7afa55f89706651ca8b99671d6c41
