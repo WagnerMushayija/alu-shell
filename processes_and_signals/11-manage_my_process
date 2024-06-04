@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#final project in processes
+#file to manage "manage_my_process"
 
 killer() {
     kill "$(pgrep -f /manage_my_process)"
